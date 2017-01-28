@@ -1,0 +1,5 @@
+autoload/
+backups/
+plugged/
+undo/
+.netrwhist
